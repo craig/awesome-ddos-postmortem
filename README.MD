@@ -14,7 +14,7 @@ https://fasterthanli.me/articles/i-won-free-load-testing
 # Webhoster TransIP
 https://transip.nl/img/cms/postmortem/ddos_post_mortem_english_march_22.pdf
 
-# CloudFlare Outage in 2021
+# CloudFlare Outage in 2012
 https://blog.cloudflare.com/post-mortem-what-todays-network-outage-looked/
 
 # Presentations about mitigation failures
