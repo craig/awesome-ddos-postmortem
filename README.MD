@@ -2,6 +2,9 @@ This is a list of awesome post-mortems written after DDoS (Distributed Denial of
 
 This is NOT a list of DDoS incidents/press articles without technical explanations.
 
+# GitHub - Great Cannon of China DDoS
+https://www.netresec.com/?page=Blog&month=2015-03&post=China%27s-Man-on-the-Side-Attack-on-GitHub
+
 # Coinbase
 https://blog.coinbase.com/incident-post-mortem-october-27-2021-1bbad477af59
 
