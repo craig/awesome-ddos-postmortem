@@ -2,6 +2,9 @@ This is a list of awesome post-mortems written after DDoS (Distributed Denial of
 
 This is NOT a list of DDoS incidents/press articles without technical explanations.
 
+# Coinbase
+https://blog.coinbase.com/incident-post-mortem-october-27-2021-1bbad477af59
+
 # Stackoverflow
 https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/
 
