@@ -5,6 +5,12 @@ This is NOT a list of DDoS incidents/press articles without technical explanatio
 # GitHub - Great Cannon of China DDoS
 https://www.netresec.com/?page=Blog&month=2015-03&post=China%27s-Man-on-the-Side-Attack-on-GitHub
 
+# CloudFlare FlowSpec Outage
+https://blog.cloudflare.com/todays-outage-post-mortem-82515/
+
+# Level3 FlowSpec Outage
+https://blog.cloudflare.com/analysis-of-todays-centurylink-level-3-outage/
+
 # Coinbase
 https://blog.coinbase.com/incident-post-mortem-october-27-2021-1bbad477af59
 
